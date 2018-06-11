@@ -1,0 +1,42 @@
+body {
+  background-image:url("https://d2uofabwotszv7.cloudfront.net/optimized/3X/f/2/f2a91d94a0d46e5cfeff794a58d6c793d3e9909b_1_690x375.png");
+}
+.topimg {
+    margin-bottom:80px;
+}
+.topimg img {
+  max-width:180px;
+  max-height:180px;
+}
+h1{
+  margin-bottom:80px;
+  text-align:center;
+  color:white;
+  font-family:sans-serif;
+  text-shadow:2px 2px black;
+  font-size:50px;
+}
+.team img{
+ border:1px solid white;
+ border-radius: 40px 0 40px 0;
+ margin-bottom:60px;
+}
+.bottomnav {
+  margin-bottom:40px;
+}
+.bottomnav li {
+  list-style:none;
+  display:inline-block;
+  padding-right:10px;
+}
+.bottomnav a {
+  color:white;
+  text-decoration:none;
+  text-align:center;
+}
+blockquote {
+  text-align:center;
+  font-size:25px;
+  color:white;
+  text-shadow:2px 2px black;
+}
